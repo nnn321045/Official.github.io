@@ -1,5 +1,5 @@
 # 行銷官方網站
- - 使用HTML、CSS、Javascript
+ - 使用 HTML、CSS、Javascript
  - RWD 響應式網頁
  - 使用 SMTPJS 實作寄信功能
  
